@@ -79,7 +79,7 @@ enum DTM_MONTH {
        DTM_SEP = 9,
        DTM_OCT = 10,
        DTM_NOV = 11,
-       DTM_DEC = 11
+       DTM_DEC = 12
 };
 typedef enum DTM_MONTH E_DTM_MONTH;
 
